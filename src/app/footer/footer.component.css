@@ -1,0 +1,11 @@
+img{
+    height: 50px;
+    width: 50px;
+}
+#link{
+    color: white;
+}
+#link:hover{
+ color: blue;
+ background-color: white;
+}

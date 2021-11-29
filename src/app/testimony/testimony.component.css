@@ -1,0 +1,43 @@
+.containers{
+  
+   width: 90%;
+   margin: 0 auto;
+  }
+img{
+    width: 10px;
+    height: 400px;
+ }
+ .testimonial{
+    margin-top: 15%;
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    padding: 20px 0;
+    position: relative;
+ 
+ }
+ 
+ 
+ .test-content h2{
+    font-size: 16px;
+    color: red;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 18px 0 .5rem;
+    line-height: 1.2px;
+ }
+ .test-content h3{
+    font-size: 15px;
+    color: white;
+    line-height: 16px;
+    margin: 18px 0 10px;
+    letter-spacing: 0.4px;
+ }
+ .test-content{
+    position: relative;
+    margin: 28px 30% 70px 30%;
+    font-style: italic;
+    font-size: 15px;
+    color: white;
+    line-height: 23px;
+ }
